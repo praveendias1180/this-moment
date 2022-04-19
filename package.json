@@ -1,0 +1,14 @@
+{
+  "name": "this-moment",
+  "version": "1.0.0",
+  "description": "This moment matters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "range-moments"
+  ],
+  "author": "Praveen Dias",
+  "license": "MIT"
+}
