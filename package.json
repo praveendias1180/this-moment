@@ -10,5 +10,8 @@
     "range-moments"
   ],
   "author": "Praveen Dias",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
 }
